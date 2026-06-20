@@ -1,4 +1,4 @@
-# 🏗️ Databricks Data Lakehouse Project
+# 🏗️ Databricks Medallion Architecture Project
 
 An end-to-end **Data Engineering** project built on **Azure Databricks** following the **Medallion Architecture** (Bronze → Silver → Gold). Raw CSV source files are ingested, cleaned, and transformed into analytics-ready Delta tables using **PySpark** and **Spark SQL**.
 
